@@ -1,0 +1,57 @@
+h1{
+    color:gold;
+    text-align: center;
+    font-size: 13vw;
+}
+p{
+    color: gold;
+    text-align: right;
+    font-size: 6vw;
+}
+body{
+  background: #185928;
+  text-align:center;
+
+}
+
+a:link, a:visited {
+  background-color: #D99E32;
+  color: white;
+  padding: 30px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: solid black;
+    
+}
+
+  
+a:hover, a:active {
+    background-color: black;
+}
+
+div{
+  text-align: center;
+  font-size: 3vw;
+
+  
+}
+
+img{
+float: left;
+  width: 25vw;
+  margin: 10px;
+  border-color: gold;
+  border-width: 0.5vw;
+  border-style:solid;
+  border-radius: 10px;
+  height:20vw;
+
+
+}
+
+hr{
+  border:1vw dotted gold;
+  border-radius:1vw;
+
+}

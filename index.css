@@ -1,0 +1,44 @@
+body {
+  background: #185928;
+  text-align:center;
+
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 10vw;
+  margin-top: 5%;
+  color: White;
+}
+
+h2 {
+      font-weight: bold;
+  text-align: center;
+  font-size: 7vw;
+  margin-top: 5%;
+  color: White;
+}
+
+div{
+  text-align: center;
+  font-size: 5vw;
+
+  
+}
+
+a:link, a:visited {
+  background-color: #D99E32;
+  color: white;
+  padding: 30px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: solid black;
+    
+}
+
+  
+a:hover, a:active {
+    background-color: black;
+}
